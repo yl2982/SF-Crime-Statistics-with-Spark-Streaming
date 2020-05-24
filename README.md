@@ -20,10 +20,10 @@ You may choose to create your project in the workspace we provide here, or if yo
 
 ## Progress
 
-![progress](https://github.com/yl2982/SF-Crime-Statistics-with-Spark-Streaming/blob/master/2.png?raw=True)
+![progress](https://github.com/yl2982/SF-Crime-Statistics-with-Spark-Streaming/blob/master/screenshots/2.png?raw=True)
 
 ## Question
-
+/
 ### 1. How did changing values on the SparkSession property parameters affect the throughput and latency of the data?
 
 ### 2. What were the 2-3 most efficient SparkSession property key/value pairs? Through testing multiple variations on values, how can you tell these were the most optimal?
