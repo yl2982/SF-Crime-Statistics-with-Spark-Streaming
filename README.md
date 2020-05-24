@@ -16,11 +16,11 @@ You may choose to create your project in the workspace we provide here, or if yo
 
 ## Kafka-consumer
 
-![consumer](https://github.com/yl2982/SF-Crime-Statistics-with-Spark-Streaming/screenshots/1.png)
+![consumer](https://github.com/yl2982/SF-Crime-Statistics-with-Spark-Streaming/blob/master/screenshots/1.png?raw=True)
 
 ## Progress
 
-![progress](https://github.com/yl2982/SF-Crime-Statistics-with-Spark-Streaming/2.png)
+![progress](https://github.com/yl2982/SF-Crime-Statistics-with-Spark-Streaming/blob/master/2.png?raw=True)
 
 ## Question
 
