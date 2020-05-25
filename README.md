@@ -23,10 +23,13 @@ You may choose to create your project in the workspace we provide here, or if yo
 ![progress](https://github.com/yl2982/SF-Crime-Statistics-with-Spark-Streaming/blob/master/screenshots/2.png?raw=True)
 
 ## Question
-/
+
 ### 1. How did changing values on the SparkSession property parameters affect the throughput and latency of the data?
+It affected how much data was being processed.
 
 ### 2. What were the 2-3 most efficient SparkSession property key/value pairs? Through testing multiple variations on values, how can you tell these were the most optimal?
+- `Kafka.bootstrap.servers`: without it, Kafka streaming won't run.
+- `maxRatePerPartition`: decides the throughput and latency of the data.
 
 
 
